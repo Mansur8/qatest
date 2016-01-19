@@ -19,6 +19,7 @@
 *.rar
 *.tar
 *.zip
+*/target/**
 
 # Logs and databases #
 ######################
